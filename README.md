@@ -47,14 +47,14 @@ gouthamee = {
 
 ### 📌 Featured Projects
 
-#### 🔧 [MiniGit — Version Control System](https://github.com/gouthamee-reddy/Projects/tree/main/MinigitRepo)
+#### 🔧 [MiniGit — Version Control System](https://github.com/gouthamee-reddy/Minigit)
 > A Git clone built from scratch in Python. Supports `init`, `add`, `commit`, `log`, `checkout`, and object storage (blob/tree/commit) using SHA-256 hashing and zlib compression.
 
 `Python` `SHA-256` `zlib` `File Systems` `OOP`
 
 ---
 
-#### 🏦 [SecureBank — Banking Application](https://github.com/gouthamee-reddy/Projects/tree/main/Securebank)
+#### 🏦 [SecureBank — Banking Application](https://github.com/gouthamee-reddy/SecureBank)
 > A desktop banking app with account creation, secure PIN login (SHA-256), deposit/withdrawal, and full transaction history. Data persisted with JSON.
 
 `Python` `Tkinter` `JSON` `hashlib` `OOP`
