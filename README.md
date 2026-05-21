@@ -65,18 +65,7 @@ gouthamee = {
 
 `Python` `Flask` `SQLAlchemy` `Flask-Login` `GPS/Haversine` `SQLite` `Jinja2` `OOP`
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouthamee-reddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamee-reddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamee-reddy&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
