@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gouthamee+Reddy+%F0%9F%91%8B;EE+Student+%7C+Python+Developer;IIT+Dharwad+%E2%9A%A1+4th+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gouthamee+Reddy+%F0%9F%91%8B;EE+Student+%7C+Python+Developer;IIT+Dharwad+%E2%9A%A1+3rd+Year)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gouthamee-reddy&label=Profile+Views&color=58a6ff&style=for-the-badge" />
@@ -63,7 +63,7 @@ gouthamee = {
 #### 📍 [Attendo — Smart Attendance System](https://github.com/gouthamee-reddy/Attendify)
 > A role-based web attendance system built with Flask. Supports student, TA, and professor roles. Features OTP-based attendance codes (10-min expiry), GPS geofencing using Haversine formula to verify physical presence, manual override by TAs, and full attendance history with percentage tracking.
 
-`Python` `Flask` `SQLAlchemy` `Flask-Login` `GPS/Haversine` `SQLite` `Jinja2` `OOP`
+`Python` `Flask`  `Flask-Login` `GPS/Haversine` `OOP`
 
 
 
