@@ -60,6 +60,10 @@ gouthamee = {
 `Python` `Tkinter` `JSON` `hashlib` `OOP`
 
 ---
+#### 📍 [Attendo — Smart Attendance System](https://github.com/gouthamee-reddy/Attendify)
+> A role-based web attendance system built with Flask. Supports student, TA, and professor roles. Features OTP-based attendance codes (10-min expiry), GPS geofencing using Haversine formula to verify physical presence, manual override by TAs, and full attendance history with percentage tracking.
+
+`Python` `Flask` `SQLAlchemy` `Flask-Login` `GPS/Haversine` `SQLite` `Jinja2` `OOP`
 
 ### 📊 GitHub Stats
 
