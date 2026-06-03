@@ -42,12 +42,17 @@ gouthamee = {
 
 #### Tools & Others
 [![](https://skillicons.dev/icons?i=git,github,vscode,latex)](https://skillicons.dev)
----
+### 🧠 LeetCode Journey (Since May 2026)
 
-### 🧠 LeetCode Progress
+- 🔥 Started consistent DSA practice from May 2026
+- 📈 Problems Solved: XX
+- 🟢 Easy: XX  
+- 🟡 Medium: XX  
+- 🔴 Hard: XX  
+- 🎯 Current Focus: Graphs, DP
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/GOUTHAMEE?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/GOUTHAMEE?theme=dark" />
 </p>
 ---
 
