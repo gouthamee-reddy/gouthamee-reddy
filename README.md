@@ -42,7 +42,13 @@ gouthamee = {
 
 #### Tools & Others
 [![](https://skillicons.dev/icons?i=git,github,vscode,latex)](https://skillicons.dev)
+---
 
+### 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GOUTHAMEE?theme=dark&ext=heatmap" />
+</p>
 ---
 
 ### 📌 Featured Projects
